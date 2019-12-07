@@ -3,6 +3,6 @@
 ---
 
 @import "jekyll-theme-minimal";
-body {
-  color: red;
-}
+<style>
+  #link { color: #FF0000; } /* CSS link color */
+</style>
