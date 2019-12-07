@@ -3,6 +3,8 @@
 ---
 
 @import "{{ site.theme }}";
-p{ 
-  color: #FF0000; 
+<style>
+p{
+  color: green
 }
+</style>
