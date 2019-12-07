@@ -18,6 +18,7 @@
       }
       a { color: #FF0000; } /* CSS link color */
       a:hover { color: maroon; }
+      
     </style>
   </head>
   <body>
@@ -27,6 +28,7 @@
 
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
+          <img width: 50%>
         {% endif %}
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
