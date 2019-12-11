@@ -9,7 +9,11 @@ In cosmology my work focused in the very early universe.
  Making robust predictions from string theory models
  Computing observables 
 
+You can find my papers in Google Scholar or INSPIRE. 
 
+Software.
+
+Cv.
 
 <!--Prior to Harvard, I worked at the theory group at DESY in Hamburg and the Astronomy Center at Sussex University, where I also did my PhD under the supervision of Prof. Andrew Liddle. You can see my CV -->
 
