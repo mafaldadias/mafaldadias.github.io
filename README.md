@@ -7,7 +7,7 @@ In biology, I develop probabilistic models of protein and genomic sequences. I a
 
 **EVE -- Evolutionary model of Variant Effects**: Explore our predictions for the propensity of pathogenicity of 36 million amino acid variants across more than 3k human disease genes at [evemodel.org](https://evemodel.org/). And find [here the code repository](https://github.com/OATML-Markslab/EVE) for "Large-scale clinical interpretation of genetic variants using evolutionary data and deep learning".
 
-In cosmology my work focused on the very early universe and its relation to string theory. I worked on building probabilistic models of inflationm from string theory, by incorporating theoretical uncertainties within a Bayesian approach. I also developed frameworks for computing accurate predictions of cosmological observables from fundamental physics models. Software for computing correlation functions of primordial density fluctuations generated during inflation is available through [transpotmethod.com](https://transportmethod.com/).
+In cosmology my work focused on the very early universe and its relation to string theory. I worked on building probabilistic models of inflation from string theory, by accounting for theoretical uncertainties. I also developed frameworks for computing accurate predictions of cosmological observables from fundamental physics models. Software for computing correlation functions of primordial density fluctuations generated during inflation is available through [transpotmethod.com](https://transportmethod.com/).
 
 You can find my papers in my [Google Scholar](https://scholar.google.com/citations?user=Ue5LxsIAAAAJ&hl=en) account.
 
