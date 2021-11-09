@@ -3,7 +3,7 @@
 
 I am a postdoc in [Debora Marks' group](https://marks.hms.harvard.edu/) in the Systems Biology Department at Harvard Medical School. My current research focuses on computational biology, statistics and machine learning. I have also spent some years doing reasearch in theoretical physics, in particular in early universe cosmology. 
  
-In biology, I develop probabilistic models of protein and genomic sequences. I am particularly interested in the ways sequencing data from accross diverse organisms and within populations can inform us about the map from sequence to function and the effect of genetic variation. One of the main focuses of my current research is the identification of genetic variants associated to human disease and pathogen evolution. 
+In biology, I develop probabilistic models of protein and genomic sequences. I am particularly interested in the ways sequencing data from across diverse organisms and within populations can inform us about the map from sequence to function and the effect of genetic variation. One of the main focuses of my current research is the identification of genetic variants associated to human disease and pathogen evolution. 
 
 **EVE -- Evolutionary model of Variant Effects**: Explore our predictions for the propensity of pathogenicity of 36 million amino acid variants across more than 3k human disease genes at [evemodel.org](https://evemodel.org/). And find [here the code repository](https://github.com/OATML-Markslab/EVE) for "Large-scale clinical interpretation of genetic variants using evolutionary data and deep learning".
 
